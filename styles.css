@@ -53,8 +53,12 @@ body {
 
 }
 
-.second-hand {
+.hour-hand {
+    background: darkblue;
+}
 
+.second-hand {
+    background:  red;
 }
 
 
